@@ -1,6 +1,5 @@
 from collections import deque
 
-
 class Automaton:
     def __init__(self, keywords):
         self.adlist = list()
